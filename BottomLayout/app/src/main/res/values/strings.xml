@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomLayout</string>
+    <string name="error">error</string>
+    <string name="electric"> electric </string>
+    <string name="photo"> photo </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

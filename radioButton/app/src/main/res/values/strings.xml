@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">radioButton</string>
+    <string name="r1">R1</string>
+    <string name="r2">R2</string>
+    <string name="r3">R3</string>
+    <string name="r4">R4</string>
+    <string name="r5">R5</string>
+    <string name="r6">R6</string>
+
+</resources>

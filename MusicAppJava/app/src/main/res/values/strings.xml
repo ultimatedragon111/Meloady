@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicAppJava</string>
+    <string name="discover">DISCOVER NEW ALBUMS</string>
+    <string name="songs">DISCOVER NEW SONGS</string>
+</resources>
