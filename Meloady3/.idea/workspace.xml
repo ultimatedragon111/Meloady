@@ -10,46 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc8adf3b-3ab2-4ac9-8473-cec590cd0a78" name="Default Changelist" comment="fixup! Revert &quot;prueba&quot;">
-      <change afterPath="$PROJECT_DIR$/../Meloady4/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/androidTest/java/com/example/meloady/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/java/com/example/meloady/LoginFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/java/com/example/meloady/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/java/com/example/meloady/SignUpFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/java/com/example/meloady/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/layout/fragment_login.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/layout/fragment_sign_up.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/app/src/test/java/com/example/meloady/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Meloady4/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnimeProject" beforeDir="false" afterPath="$PROJECT_DIR$/../AnimeProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirebaseTemplate" beforeDir="false" afterPath="$PROJECT_DIR$/../FirebaseTemplate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirebaseTemplate2" beforeDir="false" afterPath="$PROJECT_DIR$/../FirebaseTemplate2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../League" beforeDir="false" afterPath="$PROJECT_DIR$/../League" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Meloady4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Meloady4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout" beforeDir="false" afterPath="$PROJECT_DIR$/../layout" afterDir="false" />
     </list>
     <list id="cc0b106e-e13a-403f-b524-10c2164bff51" name="funciona" comment="" />
     <option name="SHOW_DIALOG" value="false" />
