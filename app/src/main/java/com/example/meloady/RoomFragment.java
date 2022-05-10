@@ -186,6 +186,7 @@ public class RoomFragment extends Fragment implements  IOnBackPressed, JcPlayerM
 
     @Override
     public void onTimeChanged(@NonNull JcStatus jcStatus) {
+
         Log.i("No funciona", String.valueOf(jcStatus.getCurrentPosition()/1000));
     }
 
